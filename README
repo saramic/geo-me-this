@@ -1,0 +1,30 @@
+== Geo Me This
+
+convert addresses into a map.
+
+== getting strated
+
+  bundle install
+  rspec spec
+  cucumber features
+
+== TODO
+[ ] add Raketask to do setup and testing - rake all; rake test
+[ ] create a seperate facked out provider for geokit for testing
+[ ] take a  number of addresses
+[ ] return some HTML output
+[ ] return as an image
+[ ] web app
+[ ] filters for input
+
+== DONE
+[x] a basic test case for geocoding address and return lat/lng
+
+== Note
+nothing to do with sourceforge project
+    http://geome.sourceforge.net/
+nor with Geo.me
+    http://www.geo.me/
+    http://www.crunchbase.com/company/geome
+    http://www.linkedin.com/company/geo.me-solutions
+
